@@ -1,0 +1,1 @@
+This folder is used to store MC GT and raw data
